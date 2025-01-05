@@ -9,7 +9,7 @@ function notifyPlayer(title, text)
 end
 
 
-notifyPlayer("Nameless Animation V4", "Originally Made By 3XPLO!TS")
+notifyPlayer("Fe Neko VR Version V19", "Originally Made By 3XPLO!TS")
 notifyPlayer("Created", "qultix - Gazar_ha")
 notifyPlayer("Energize", "Credits The Owner Respect-")
 
